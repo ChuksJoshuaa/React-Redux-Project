@@ -1,5 +1,7 @@
 # React Redux Project
 
+<img src="https://res.cloudinary.com/chuksmbanaso/image/upload/v1645320870/media/Screenshot_30_t8ok1b.png" title="Redux Project" alt="Redux Project">
+
 ## Available Scripts
 
 In the project directory, you can run:
